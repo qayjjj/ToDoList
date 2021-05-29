@@ -24,6 +24,6 @@
 
 
 ## Future Improvements
-What I hope to do ...
-✨ Let users register/ sign in, either by typing in email and password, or signing in using Google and Facebook
+What I hope to do ...<br>
+✨ Let users register/ sign in, either by typing in email and password, or signing in using Google and Facebook<br>
 ✨ Each user can have their own To-do list
